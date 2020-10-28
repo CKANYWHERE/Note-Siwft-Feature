@@ -14,7 +14,7 @@
  * [ARC 왜캐 어렵누](https://github.com/CKANYWHERE/noteswift/blob/main/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98/ARC%20%EB%9E%80%20%EB%AD%98%EA%B9%8C%EC%9A%94.md)   
 
 
-#### OOP Functional Programing 기록  ✏
+#### Swift 문법 기록  ✏
 
  * [Class 와 Struct 의 차이](https://github.com/CKANYWHERE/noteswift/blob/main/OOP%20Functional%20Programing/Class%20vs%20Struct.md)   
 
