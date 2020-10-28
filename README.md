@@ -6,7 +6,7 @@
 
 ### 아키텍처 기록 ✏
 
-### OOP 기록  ✏
+### OOP Functional Programing 기록  ✏
 
 ### 디자인 패턴 기록 ✏
 
