@@ -16,7 +16,7 @@
 
 #### Swift 문법 기록  ✏
 
- * [Class 와 Struct 의 차이](https://github.com/CKANYWHERE/noteswift/blob/main/OOP%20Functional%20Programing/Class%20vs%20Struct.md)   
+ * [Class 와 Struct 의 차이](https://github.com/CKANYWHERE/noteswift/blob/main/%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95/Class%20vs%20Struct.md)   
 
 
 #### 디자인 패턴 기록 ✏
