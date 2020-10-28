@@ -1,3 +1,3 @@
-#NOTE-SWIFT
+# NOTE-SWIFT
 
-스위프트 기본 지식 ⭐
+⭐ 스위프트 기본 지식 ⭐
