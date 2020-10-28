@@ -6,7 +6,7 @@
 
 #### View 기록 ✏
 
- * [Class vs Struct](https://github.com/CKANYWHERE/noteswift/blob/main/OOP%20Functional%20Programing/Class%20vs%20Struct.md)   
+ * [Bound 와 Frame](https://github.com/CKANYWHERE/noteswift/blob/main/View/Bound%20VS%20Frame.md)   
 
 
 #### 아키텍처 기록 ✏
