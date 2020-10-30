@@ -68,7 +68,7 @@
   그래서 imClass2가 변경이 되면 imClass1도 같은 메모리에 있는 객체를 참조하고 있기때문에 imClass1의 값도 바뀌는 것 입니다.   
 
 ### 어떤경우에 Struct Class 를 사용할까?
-  [애플공식 문서](https://github.com/CKANYWHERE/noteswift/blob/main/%EA%B8%B0%ED%83%80/AlamoFire%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md) 에따른 내용으로는,
+  [애플공식 문서](https://developer.apple.com/swift/blog/?id=10) 에따른 내용으로는,
   
   * Struct
 	1. object 두개의 값을 비교해야하는 경우

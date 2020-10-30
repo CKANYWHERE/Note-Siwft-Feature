@@ -6,7 +6,7 @@
 
 #### View 기록 ✏
 
- * [Bound 와 Frame](https://github.com/CKANYWHERE/noteswift/blob/main/View/Bound%20VS%20Frame.md)   
+ * [Bounds 와 Frame](https://github.com/CKANYWHERE/noteswift/blob/main/View/Bound%20VS%20Frame.md)   
 
 
 #### 아키텍처 기록 ✏
