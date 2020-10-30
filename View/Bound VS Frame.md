@@ -12,4 +12,4 @@
 **SuperView(상위뷰)의 좌표** 안에서 View의 위치와 크기를 나타냅니다.   
 
 예를 들어 봅시다.(~~그림 그리기 귀찮은데..~~)   
-![viewbound1](./viewbound1.png)
+![viewbound1](./viewbound1.PNG)
