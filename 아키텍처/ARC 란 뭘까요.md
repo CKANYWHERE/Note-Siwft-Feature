@@ -67,7 +67,7 @@ GC(Garbage Collector)와 한번 비교를 해보겠습니다.
 ## Strong Reference Cycle
   아마 눈치가 빠르신 분들이라면 이런 질문을 할 수 있어요.   
   "객체가 또다른 객체를 참조하면 어떻게 하나요?"   
-  또한번 코드로 예를 한번 들어 볼게요!
+  또한번 코드로 예를 한번 들어 볼게요!   
     ```
  	class SampleClass{
 		var name:String?
