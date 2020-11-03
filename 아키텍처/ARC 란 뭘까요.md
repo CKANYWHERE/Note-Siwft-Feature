@@ -68,7 +68,7 @@ GC(Garbage Collector)와 한번 비교를 해보겠습니다.
   아마 눈치가 빠르신 분들이라면 이런 질문을 할 수 있어요.   
   객체가 또다른 객체를 참조하면 어떻게 하나요?   
   또한번 코드로 예를 한번 들어 볼게요!   
-    ```
+    
  	class SampleClass{
 		var name:String?
 		init(name:String){
@@ -92,7 +92,7 @@ GC(Garbage Collector)와 한번 비교를 해보겠습니다.
 	a = SampleClass("test_user_1")
 	b = ReferenceClass(unit: "test_user_2")
 	b.refer = a
-    ```
+    
 이 때 각각의 SampleClass와 ReferenceClass에 인스턴스를 할당 해줍니다!   
 
 그러면 결국에 SampleClass가 생성이 되고 SampleClass를 참조하는 ReferenceClass가 생성이 되겠죠?   
