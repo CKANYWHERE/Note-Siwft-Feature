@@ -3,18 +3,7 @@ Alamofire는 기본적으로 서버와 Http 통신을 할때 많이 쓰여요 :)
 ios를 개발할때 백엔드와 연동은 정말 중요하기 때문에 많이 쓰이는 라이브러리중 하나지요 ㅎㅎ  
 일단 설치 부터 해봅시다!   
   ```
-  # Uncomment the next line to define a global platform for your project
-  platform :ios, '12.0'
-
-  target 'GamePartner' do
-  # Comment the next line if you don't want to use dynamic frameworks
-  use_frameworks!
-
-  pod 'Alamofire'
-
-  end
-
-
+	pod 'Alamofire'
   ```
 
 pod 파일에 vi 에디터로 수정해주세요! 그리고 pod install 하면 설치가 됩니다   
@@ -34,7 +23,7 @@ pod 파일에 vi 에디터로 수정해주세요! 그리고 pod install 하면 �
   ```
   AF.request(URL).validate()
 				 .responseJSON{ response in
-                switch response.result {
+					switch response.result {
 					case .success(let json):
 						let data = JSON(json)
 						let parseModel = data["body"].stringValue
