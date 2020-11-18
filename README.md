@@ -12,6 +12,7 @@
 #### 아키텍처 기록 ✏
 
  * [ARC 왜캐 어렵누](https://github.com/CKANYWHERE/noteswift/blob/main/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98/ARC%20%EB%9E%80%20%EB%AD%98%EA%B9%8C%EC%9A%94.md)   
+ * [Strong Weak Unowed 헷갈리는거 다 알려드림](https://github.com/CKANYWHERE/noteswift/blob/main/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%B0%B8%EC%A1%B0(strong%2Cweak%2Cunowed).md)   
 
 
 #### Swift 문법 기록  ✏
