@@ -5,7 +5,7 @@ iOS 개발을 하면서 신경쓸게 한두가지가 아니죠...
 아이폰 종류에 따라 스토리보드 혹은 코드를 작성 하면 굉장히 번거러워 지기도 하구요...   
 그래서 우리가 사용할 수 있는 기능중 하나가 **오토레이아웃**이에요!   
 
-###Frame Layout 과 Auto Layout
+### Frame Layout 과 Auto Layout
 보통 앱은 UI를 뷰의 프레임을 프로그래밍 방식으로 계산합니다. ~~어디까지나 제 생각입니다.~~   
 이렇게 되면 프레임의 사이즈를 계산하여 뷰에 배치해야 하는데, 이렇게 되면 복잡해 질 수도 있어요.   
 왜 냐면 뷰에대한 크기와 위치를 계산해야하기 때문인데요, 또 수정을 해야하면 영향을 받는 뷰에 다시 프레임을 계산해야 하죠.   
@@ -20,14 +20,14 @@ iOS 개발을 하면서 신경쓸게 한두가지가 아니죠...
 이렇게 각각의 **constraint**를 주면 해상도에 맞게 뷰가 나타나게 됩니다.   
 일반적으로 봤을 때는 프레임을 하나하나 계산해서 배치하는 것 보다 **Autolayout**의 **constraint**를 주는게 더 편해보이네요   
 
-###스토리보드에서 사용하기
+### 스토리보드에서 사용하기
 스토리보드에서 수정을 하려면 하단에 Pin 메뉴와 Align 메뉴를 통하여 수정 할 수 있습니다.   
 Pin 메뉴부터 먼저 보시면   
-![AutoLayout3](./AutoLayout3.PNG)    
+![AutoLayout3](./AutoLayout3.png)   
 이렇게 나옵니다.   
 Add New Constraints 쪽에서 Constraints를 설정 할 수 있습니다.   
 다음은 Align을 설정 할 수 있는 탭입니다.
-![AutoLayout4](./AutoLayout4.PNG)    
+![AutoLayout4](./AutoLayout4.png)   
 view의 Horizontal 위치 와 Vertical 위치를 설정 할 수 있어요!   
 Horizontal이 0이고 Vertical이 0이면 뷰의 센터에 위치하게 되요!   
 근데 스토리보드에서도 결국엔 고정 값 으로만 지정을 할 수 있어서 어느 정도 한계가 있어요 ㅠㅠ   
