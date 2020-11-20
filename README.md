@@ -7,6 +7,7 @@
 #### 끄적끄적 기록 ✏
 
  * [Bounds 와 Frame](https://github.com/CKANYWHERE/noteswift/blob/main/View/Bound%20VS%20Frame.md)   
+ * [AutoLayout](https://github.com/CKANYWHERE/noteswift/blob/main/View/AutoLayout.md)   
  * [ARC 왜캐 어렵누](https://github.com/CKANYWHERE/noteswift/blob/main/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98/ARC%20%EB%9E%80%20%EB%AD%98%EA%B9%8C%EC%9A%94.md)   
  * [Strong Weak Unowed 헷갈리는거 다 알려드림](https://github.com/CKANYWHERE/noteswift/blob/main/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%B0%B8%EC%A1%B0(strong%2Cweak%2Cunowed).md)   
  * [Class 와 Struct 의 차이](https://github.com/CKANYWHERE/noteswift/blob/main/%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95/Class%20vs%20Struct.md)   
