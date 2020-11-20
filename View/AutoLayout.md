@@ -34,7 +34,7 @@ Horizontal이 0이고 Vertical이 0이면 뷰의 센터에 위치하게 되요!
 그렇게 되면 결국 코드로 AutoLayout을 설정을 해야 할 경우도 있다는건데, 코드로는 어떻게 설정 할까요?
 
 
-###코드에서 사용하기
+### 코드에서 사용하기
 
   ```
 	var acceptButton = UIButton()
