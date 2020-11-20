@@ -26,7 +26,7 @@ Pin 메뉴부터 먼저 보시면
 ![AutoLayout3](./AutoLayout3.png)   
 이렇게 나옵니다.   
 Add New Constraints 쪽에서 Constraints를 설정 할 수 있습니다.   
-다음은 Align을 설정 할 수 있는 탭입니다.
+다음은 Align을 설정 할 수 있는 탭입니다.   
 ![AutoLayout4](./AutoLayout4.png)   
 view의 Horizontal 위치 와 Vertical 위치를 설정 할 수 있어요!   
 Horizontal이 0이고 Vertical이 0이면 뷰의 센터에 위치하게 되요!   
