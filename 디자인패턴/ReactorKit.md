@@ -107,7 +107,7 @@ TestReactor 클래스 안에 있는 프로퍼티들을 바인딩 한거라고 �
 그러면 여기서 버튼을 눌렀을 때 어떻게 동작을 해야할지 코드를 작성 해보겠습니다.   
 
 ```
-	// enum Action 에서 increase일 경우 increaseValue의 Mutation을 반환
+// enum Action 에서 increase일 경우 increaseValue의 Mutation을 반환
     func mutate(action: Action) -> Observable<Mutation> {
 		switch action{
 		case .increase:
@@ -115,7 +115,7 @@ TestReactor 클래스 안에 있는 프로퍼티들을 바인딩 한거라고 �
 		}
     }
      
-	//enum Mutation에서 increaseValue일 경우 현재 state 값을 가져와 newState에 넣어준뒤 State의 data값에 1을 더한뒤 반환
+//enum Mutation에서 increaseValue일 경우 현재 state 값을 가져와 newState에 넣어준뒤 State의 data값에 1을 더한뒤 반환
     func reduce(state: State, mutation: Mutation) -> State {
 		var newState = state
 		switch mutation{
